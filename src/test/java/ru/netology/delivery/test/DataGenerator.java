@@ -1,8 +1,7 @@
 package ru.netology.delivery.test;
 
-
-import lombok.Value;
 import com.github.javafaker.Faker;
+import lombok.Value;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -11,7 +10,8 @@ import java.util.Random;
 
 public class DataGenerator {
 
-    private DataGenerator() {}
+    private DataGenerator() {
+    }
 
     public static String generateDate(int shift) {
         return LocalDate.now().plusDays(shift).format(DateTimeFormatter.ofPattern("dd.MM.yyyy"));
