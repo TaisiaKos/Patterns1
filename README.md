@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/TaisiaKos/Patterns1/actions/workflows/gradle.yml/badge.svg)](https://github.com/TaisiaKos/Patterns1/actions/workflows/gradle.yml)
+<img width="1280" alt="Снимок экрана 2024-02-20 в 17 09 32" src="https://github.com/TaisiaKos/Patterns1/assets/106245276/fea213d9-c908-40b0-b8b4-75cc209cbfed">
