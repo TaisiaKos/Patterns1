@@ -1,4 +1,4 @@
-package ru.netology.delivery.test;
+package ru.netology.patterns.test;
 
 import com.github.javafaker.Faker;
 import lombok.Value;
